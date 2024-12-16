@@ -1,5 +1,5 @@
-# puzzles-minidsa01
-# Puzzles#minidsa
+# puzzles-minidsa
+# Puzzles#minidsa01
 
 This repository contains solutions to interesting programming puzzles and mini data structure & algorithm (DSA) problems. It is designed to help improve problem-solving skills and understanding of core DSA concepts.
 
